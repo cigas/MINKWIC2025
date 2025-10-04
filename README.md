@@ -1,5 +1,9 @@
-# MINKWIC2025 JOHN
-A demo repository for MINKWIC 2025 workshop
+# MINKWIC2025
+A demo repository for MINKWIC 2025 workshop 
+
+## Slides
+[Online](https://docs.google.com/presentation/d/1EcmwlknqLOpwyxwTbrWeMpJY2j3mS6hQJVxlrsFxpsU/edit?usp=sharing)  
+[PDF](https://github.com/cigas/MINKWIC2025/blob/main/GitHub%20for%20Collaboration.pdf)
 
 ## GitHub and Markdown Guides
 Dr. Kate Cooper's curated list of [GitHub resources](https://github.com/kmcooper/MINKWIC2023/blob/main/documents/guides.md)
